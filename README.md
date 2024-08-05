@@ -8,11 +8,11 @@ You are a data engineer hired by a solid waste management company that collects 
 
 #### Exercise 1: Design a Data Warehouse
 1. Designed the Star Schema:
-  * Fact Table: MyFactTrips
-  * Dimension Tables: MyDimDate, MyDimWaste, MyDimZone
+   * Fact Table: MyFactTrips
+   * Dimension Tables: MyDimDate, MyDimWaste, MyDimZone
 2. Identified Fields:
-  * Defined the fields for each table to capture the required data granularity and relationships.
-  * 
+   * Defined the fields for each table to capture the required data granularity and relationships.
+
 #### Exercise 2: Create Schema for Data Warehouse on PostgreSQL
 1. Created the Database:
     * Set up a database named Project.
